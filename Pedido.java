@@ -25,7 +25,7 @@ public class Pedido {
 
     public void exibirResumo() {
         System.out.println("\n========================================");
-        System.out.println("        Restaurante do Lucas             ");
+        System.out.println("        Restaurante Medeiros             ");
         System.out.println("========================================");
         System.out.println("Pedido N°: " + numero);
         System.out.println("Cliente: " + cliente);
@@ -49,3 +49,4 @@ public class Pedido {
         return cliente;
     }
 }
+
